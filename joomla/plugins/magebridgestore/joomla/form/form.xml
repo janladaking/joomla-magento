@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+    <fields name="actions">
+        <fieldset name="actions">
+            <field name="joomla_language" label="PLG_MAGEBRIDGESTORE_JOOMLA_FIELD_JOOMLA_LANGUAGE" type="language">
+                <option value=""></option>
+            </field>
+        </fieldset>
+    </fields>
+</form>

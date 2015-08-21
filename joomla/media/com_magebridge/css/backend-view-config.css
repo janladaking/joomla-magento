@@ -1,0 +1,40 @@
+/**
+ * Joomla! component MageBridge
+ *
+ * @author Yireo
+ * @package MageBridge
+ * @copyright Copyright 2015
+ * @link http://www.yireo.com/
+ */
+
+td.key {
+    font-weight: normal !important;
+    width: 200px !important;
+}
+
+td.value {
+    width: 300px;
+}
+
+td.status {
+    width: 30px;
+}
+
+h4.fieldgroup {
+    border-bottom: 1px solid #ccc;
+    margin-top: 30px;
+}
+
+input {
+    padding: 2px;
+}
+
+div.controls div.controls {
+    margin-left: 0;
+}
+
+span.fieldgroup label {
+    font-weight: bold;
+    font-size: 130%;
+}
+
